@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/License-GNU%203.0-lightgrey.svg">
   </a>
   <a href="https://github.com/F-Society-Official/FS-Logger/releases">
-    <img src="https://img.shields.io/badge/Release-1.8-blue.svg">
+    <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
     <a href="https://github.com/1ucif3r">
     <img src="https://img.shields.io/badge/1ucif3r-%E2%9D%A4-brightgreen.svg">
