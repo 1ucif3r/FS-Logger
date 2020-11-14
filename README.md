@@ -191,6 +191,6 @@ Note: You can also use our custom icons from the icon folder, just use them like
    * Reboot your system and then delete the evil file stored this this below path
    * Destination Path, where Keylogger is stored : **~/.config/xnput**
 
-## Cradit
+## Credit
    
    1ucif3r_18@protonmail.com
